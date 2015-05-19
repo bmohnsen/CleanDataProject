@@ -1,6 +1,9 @@
 Variables - data - transformations
+
 This document describes the creation of tidy.txt from original data at:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 A description of the original data can be found at:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
 The data from the following necessary sets were read into the program and assigned the following names.
 	subject_train <- subject_train.txt		
 	subject_test <- subject_test.txt
